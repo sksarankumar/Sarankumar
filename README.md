@@ -1,3 +1,4 @@
+PHASE 1:
 Noise Polution Detection
 Monitoring noise pollution using the Internet of Things (loT) involves the use of connected
 devices and sensors to collect, transmit, and analyze data on noise levels and sources in
